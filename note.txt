@@ -1,0 +1,7 @@
+
+
+1. for File Uploading : 
+        npm install formidable
+
+2. for Email sending : 
+        npm install nodemailer
